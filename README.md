@@ -8,7 +8,7 @@ CORE FRAMEWORK BASED ON ROS INDIGO ON UBUNTU TRUSTY (14.04)<br />
 GUI DEVELOPED ON Qt Creator 3.1.2 (opensource) Based on Qt 5.3.1 (GCC 4.6.1, 64 bit) AND Qt Creator 4.1.0 Based on Qt 5.6.1 (GCC 4.8.4, 64bit)
 
 ## Reference
-If you use this code please cite:
+If you use this code please cite:<br />
 Sai Velamala, Devendra Patil and Ming Xie.<br />
 "Development of ROS-Based GUI for Control of an Autonomous Surface Vehicle" IEEE International Conference on Robotics and Biomemetics(IEEE-ROBIO) 2017.
 
