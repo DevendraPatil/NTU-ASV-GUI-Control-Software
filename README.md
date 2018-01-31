@@ -5,7 +5,10 @@ NTU ASV GUI CONTROL SOFTWARE:VERSION 1.0.5<br />
 SUBVERSION:WAM-V 16' NTU SINGABOAT<br />
 <br />
 CORE FRAMEWORK BASED ON ROS INDIGO ON UBUNTU TRUSTY (14.04)<br />
-GUI DEVELOPED ON Qt Creator 3.1.2 (opensource) Based on Qt 5.3.1 (GCC 4.6.1, 64 bit) AND Qt Creator 4.1.0 Based on Qt 5.6.1 (GCC 4.8.4, 64bit)
+GUI DEVELOPED ON Qt Creator 3.1.2 (opensource) Based on Qt 5.3.1 (GCC 4.6.1, 64 bit) AND Qt Creator 4.1.0 Based on Qt 5.6.1 (GCC 4.8.4, 64bit)<br />
+
+![alt text](https://github.com/DevendraPatil/NTU-ASV-GUI-Control-Software/blob/master/Screen%20shots%20of%20UI/home.png)<br />
+
 
 ## Reference
 If you use this code please cite:<br />
