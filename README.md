@@ -9,7 +9,7 @@ GUI DEVELOPED ON Qt Creator 3.1.2 (opensource) Based on Qt 5.3.1 (GCC 4.6.1, 64 
 
 ## Reference
 If you use this code please cite:
-Sai Velamala, Devendra Patil and Ming Xie.
+Sai Velamala, Devendra Patil and Ming Xie.<br />
 "Development of ROS-Based GUI for Control of an Autonomous Surface Vehicle" IEEE International Conference on Robotics and Biomemetics(IEEE-ROBIO) 2017.
 
 ## Running the Code
