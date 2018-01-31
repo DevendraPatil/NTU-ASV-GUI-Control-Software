@@ -1,0 +1,24 @@
+/**
+ * @file /eros_qtalker/src/qnode.cpp
+ *
+ * @brief Ros communication central!
+ *
+ * @date February 2011
+ **/
+
+/*****************************************************************************
+** Includes
+*****************************************************************************/
+
+#include <ros/ros.h>
+#include <ros/network.h>
+#include <string>
+#include "/home/devendra/catkin_ws/src/pubimagenew/include/pubimagenew/qnode.hpp"
+#include <std_msgs/String.h>
+#include <sstream>
+
+/*****************************************************************************
+** Implementation
+*****************************************************************************/
+
+
